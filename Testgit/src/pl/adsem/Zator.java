@@ -1,2 +1,4 @@
-package pl.adsem;public class Zator {
+package pl.adsem;
+
+public class Zator {
 }
